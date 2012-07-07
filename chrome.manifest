@@ -1,0 +1,4 @@
+content	emptysidebar	jar:chrome/emptysidebar.jar!/content/
+locale	emptysidebar	en-US	jar:chrome/emptysidebar.jar!/locale/en-US/
+skin	emptysidebar	classic/1.0	jar:chrome/emptysidebar.jar!/skin/
+overlay	chrome://browser/content/browser.xul	chrome://emptysidebar/content/firefoxOverlay.xul
